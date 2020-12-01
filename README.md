@@ -1,3 +1,3 @@
 # LIVRO DE RECEITAS 
-###receita 2 
-###receuta 3
+###Receita 2 
+###Receita 3
